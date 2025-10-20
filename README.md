@@ -23,7 +23,7 @@ This project demonstrates EPG integration patterns and serves as a foundation fo
 
 ## Development Notes
 
-This is a web-based exploration of EPG functionality. For production TV applications requiring DotStudio Pro SDKs (@dotstudiopro/player, @dotstudiopro/core), consider using React Native TV instead, as these SDKs are not compatible with web browsers.
+This is a web-based exploration of EPG functionality. For production TV applications requiring DotStudio Pro SDKs (@dotstudiopro/player, @dotstudiopro/core)
 
 ## Installation
 ```bash
